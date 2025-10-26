@@ -18,7 +18,7 @@ The To-Do List App is a simple Java Swing application that helps users manage da
 - DefaultListModel for dynamic task storage  
 
 ---
-##👩‍💻 Author
+## 👩‍💻 Author
 
 - Name: Kavyashree Visaji
 - Course: Third Semester Engineering
